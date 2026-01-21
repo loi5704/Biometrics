@@ -57,7 +57,7 @@ Trình bày code triển khai các phương pháp trong nhận diện palmprint:
 
 ```
 
-<h1 id="iii" style="font-weight: bold">3. Triển khai code các phương pháp (ngoại trừ phương pháp tiên tiến)</h1> 
+<h1 id="iii" style="font-weight: bold">3. Triển khai các phương pháp truyền thống </h1> 
 
 Triển khai các phương pháp trên 2 datasets sau:
 
@@ -73,7 +73,7 @@ Các link kaggle notebook ứng với từng phương pháp:
 - [phương pháp global statistical](https://www.kaggle.com/code/tmtrnhelloworld/globalstatisticalbased-approaches)
 - [phương pháp coding-based](https://www.kaggle.com/code/tmtrnhelloworld/codingbased-approaches)
 
-<h1 id="iv" style="font-weight: bold">4. Triển khai code phương pháp tiên tiến</h1> 
+<h1 id="iv" style="font-weight: bold">4. Triển khai các phương pháp tiên tiến</h1> 
 
 Triển khai trên 3 datasets sau:
 
