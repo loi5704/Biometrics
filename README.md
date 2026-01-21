@@ -56,17 +56,17 @@ Trình bày code triển khai các phương pháp trong nhận diện palmprint:
 
 Triển khai các phương pháp trên 2 datasets sau:
 
-- Birjand University Mobile Palmprint Database (BMPD): https://www.kaggle.com/datasets/mahdieizadpanah/birjand-university-mobile-palmprint-databasebmpd
-- Sapienza University Mobile Palmprint Database (SMPD): https://www.kaggle.com/datasets/mahdieizadpanah/sapienza-university-mobile-palmprint-databasesmpd
+- [Birjand University Mobile Palmprint Database (BMPD)](https://www.kaggle.com/datasets/mahdieizadpanah/birjand-university-mobile-palmprint-databasebmpd)
+- [Sapienza University Mobile Palmprint Database (SMPD)](https://www.kaggle.com/datasets/mahdieizadpanah/sapienza-university-mobile-palmprint-databasesmpd)
 
 Môi trường chạy code: Kaggle notebook <br>
 Các link kaggle notebook ứng với từng phương pháp:
 
-- phương pháp line-based: https://www.kaggle.com/code/tmtrnhelloworld/linebased-approaches
-- phương pháp subspace-based: https://www.kaggle.com/code/tmtrnhelloworld/subspace-based-approaches
-- phương pháp local statistical: https://www.kaggle.com/code/tmtrnhelloworld/localstatisticbased-approaches
-- phương pháp global statistical: https://www.kaggle.com/code/tmtrnhelloworld/globalstatisticalbased-approaches
-- phương pháp coding-based: https://www.kaggle.com/code/tmtrnhelloworld/codingbased-approaches
+- [phương pháp line-based](https://www.kaggle.com/code/tmtrnhelloworld/linebased-approaches)
+- [phương pháp subspace-based](https://www.kaggle.com/code/tmtrnhelloworld/subspace-based-approaches)
+- [phương pháp local statistical](https://www.kaggle.com/code/tmtrnhelloworld/localstatisticbased-approaches)
+- [phương pháp global statistical](https://www.kaggle.com/code/tmtrnhelloworld/globalstatisticalbased-approaches)
+- [phương pháp coding-based](https://www.kaggle.com/code/tmtrnhelloworld/codingbased-approaches)
 
 <h1 id="iv" style="font-weight: bold">4. Triển khai code phương pháp tiên tiến</h1> 
 
